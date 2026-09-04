@@ -1,0 +1,22 @@
+{
+  "name": "chai-aur-backend",
+  "version": "1.0.0",
+  "description": "Starting Backend Development. Gonna finish it this time around.",
+  "keywords": [
+    "Dark",
+    "Knight"
+  ],
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "index": "node index.js"
+  },
+  "dependencies": {
+    "dot": "^1.1.3",
+    "dotenv": "^17.4.2",
+    "env": "^0.0.2",
+    "express": "^5.2.1"
+  }
+}
