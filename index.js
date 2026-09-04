@@ -45,7 +45,7 @@ app.get('/', (req, res) => {
 });
 
 app.get("/data",(req,res)=>{
-    res.send(github_data);
+    res.json(github_data);
 });
 
 app.get('/test', (req, res) => {
